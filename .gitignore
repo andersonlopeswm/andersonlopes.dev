@@ -1,0 +1,22 @@
+node_modules/
+
+# Renders e cópias geradas
+output/
+public/posts/
+
+# Mídia não vai para o git (vídeos, imagens, áudio)
+*.mp4
+*.mov
+*.webm
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.mp3
+*.wav
+*.m4a
+content/**/assets/
+
+.pw-*.png
+.DS_Store

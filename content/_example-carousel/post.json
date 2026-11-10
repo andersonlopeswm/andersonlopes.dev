@@ -1,0 +1,13 @@
+{
+  "type": "carousel",
+  "props": {
+    "tag": "Ferramentas",
+    "slides": [
+      { "kind": "cover", "kicker": "Salva esse post", "title": "5 IAs *grátis* que parecem ilegais" },
+      { "kind": "content", "number": 1, "title": "Resumo de *vídeos*", "body": "Cola o link do YouTube e recebe os pontos principais em segundos." },
+      { "kind": "list", "title": "Como usar *hoje*", "items": ["Abra a ferramenta", "Cole o *link*", "Peça o resumo em tópicos"] },
+      { "kind": "stat", "value": "10x", "label": "mais rápido", "body": "do que assistir o vídeo inteiro." },
+      { "kind": "cta", "title": "Quer o *link* de todas?", "keyword": "LISTA" }
+    ]
+  }
+}
